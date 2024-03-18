@@ -1,4 +1,4 @@
-# Projeto Laravel - BookStore
+# Projeto 'BookStore'
 A aplicação laravel, denominada "Bookstore", é uma aplicação Laravel básica que inclui dados para autores,
 editoras e livros. O administrador sendo capaz de remover autores, editoras e livros.
 
@@ -42,7 +42,7 @@ Depois do comando, será apresentado a porta localhost do aplicativo.
 ## Utilização
 Na página inicial da aplicação, no lado superior direito, encontrará o botão `login` e o `register`, se pretende criar uma conta.
 
-Se estiver como administrador, conseguirá editar, e remover autores, editoras e livros.
+Se estiver como administrador, conseguirá editar e remover autores, editoras e livros.
 
 A informação aparecerá no lado direito de cada elemento.
 
