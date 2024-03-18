@@ -40,7 +40,7 @@ editoras e livros. O administrador sendo capaz de remover autores, editoras e li
 Depois do comando, será apresentado a porta localhost do aplicativo.
 
 ## Utilização
-Na página inicial da aplicação, no lado superior direito, encontrará o botão `login` e o `register`, se desejar criar uma conta.
+Na página inicial da aplicação, no lado superior direito, encontrará o botão `login` e o `register`, se pretende criar uma conta.
 
 Se estiver como administrador, conseguirá editar, e remover autores, editoras e livros.
 
